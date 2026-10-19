@@ -4,7 +4,7 @@
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=No-World&layout=compact&langs_count=14&theme=dark_github)](https://github.com/No-World)
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,js,java,python,nodejs,linux,git,github,vscode,idea" alt="skills" /> <img src="cuddlyferris.svg" alt="ferris" width="40" height="40" style="width: 40px; height: 40px; vertical-align: middle; margin-left: 8px;" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,rust,js,java,python,nodejs,linux,git,github,vscode,idea" alt="skills" />
 
 <div>
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
