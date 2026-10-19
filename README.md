@@ -4,7 +4,7 @@
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=No-World&layout=compact&langs_count=14&theme=dark_github)](https://github.com/No-World)
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,js,java,python,nodejs,linux,git,github,vscode,idea" alt="skills" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,rust,js,java,python,nodejs,linux,git,github,vscode,idea" alt="skills" />
 
 <div>
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -16,6 +16,7 @@
 </div>
 
 <div>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
