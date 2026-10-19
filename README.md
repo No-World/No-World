@@ -16,7 +16,7 @@
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/html.webp" alt="html" width="100" height="100" style="width: 100px; height: 100px;" />
-    <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/css.webp" alt="css" width="100" height="100" style="width: 100px; height: 100px;" />
+    <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/cssgif.webp" alt="css" width="100" height="100" style="width: 100px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/vscode.webp" alt="vscode" width="100" height="100" style="width: 100px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/python.webp" alt="python" width="100" height="100" style="width: 100px; height: 100px;" />
     <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/js.webp" alt="javascript" width="100" height="100" style="width: 100px; height: 100px;" />
