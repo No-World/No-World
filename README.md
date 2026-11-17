@@ -7,23 +7,23 @@
 <img src="https://skillicons.dev/icons?i=ts,cpp,rust,js,java,python,nodejs,linux,git,github,vscode,idea" alt="skills" />
 
 <div>
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/ts-icon.svg" alt="typescript" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/cpp-icon.svg" alt="cplusplus" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/java-icon.svg" alt="java" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/github-icon.svg" alt="github" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/python-icon.svg" alt="python" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/csharp-icon.svg" alt="csharp" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/js-icon.svg" alt="javascript" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <div>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/docker-icon.svg" alt="docker" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/graphql-icon.svg" alt="graphql" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/webpack-icon.svg" alt="webpack" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/react-icon.svg" alt="react" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/eslint-icon.svg" alt="eslint" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/nginx-icon.svg" alt="nginx" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/mysql-icon.svg" alt="mysql" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <div>
